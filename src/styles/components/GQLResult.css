@@ -1,0 +1,20 @@
+.gql {
+  margin: 1vw;
+}
+
+.gql-title {
+  margin: 0;
+  padding: 5px;
+  text-align: center;
+  font-size: 28px;
+  border: 1px solid #000000;
+  border-bottom: 0px solid #000000;
+  background-color: #000000;
+}
+
+.gql-res {
+  margin: 0;
+  padding: 20px;
+  border: 1px solid #000000;
+  width: auto;
+}

@@ -1,0 +1,28 @@
+.header-container {
+  padding: 1vw;
+}
+
+.header-infos {
+  display: flex;
+  flex-direction: row;
+}
+
+.header-block {
+  margin: 20px;
+  padding: 0px 20px;
+  border-radius: 25px;
+  width: 10vw;
+  background-color: #1c1e24;
+}
+
+.header-block.first {
+  margin-left: 0;
+}
+
+.header-title {
+  font-size: 20px;
+}
+
+.header-content {
+  text-align: right;
+}

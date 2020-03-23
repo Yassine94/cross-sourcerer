@@ -1,0 +1,9 @@
+.profile-img-container {
+  padding: 1vw;
+}
+
+.profile-img {
+  width: 200px;
+  border-radius: 50%;
+  border: 5px solid black;
+}

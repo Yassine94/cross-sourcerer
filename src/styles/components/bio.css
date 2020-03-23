@@ -1,0 +1,19 @@
+.bio-container {
+  padding: 1vw;
+}
+
+.bio-name {
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+}
+
+.bio-bio {
+  margin: 0;
+  padding: 0;
+}
+
+.bio-location {
+  margin: 0;
+  padding: 0;
+}
